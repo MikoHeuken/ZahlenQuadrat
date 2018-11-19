@@ -20,7 +20,7 @@ public class zahlenQuadrat {
 		
 		
 	//	System.out.print(col+","+row);
-	//	System.out.println(" "+Ergebnis+" 1");
+	//	System.out.println(" "+Ergebnis+" 1")
 		
 		if(col>1 && row>1) {rechnen(col-1, row);
 							rechnen(col, row-1);
